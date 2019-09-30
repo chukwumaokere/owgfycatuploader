@@ -1,0 +1,5 @@
+exports.client_id = ''
+exports.client_secret = '';
+exports.username = "";
+exports.password = "";
+exports.watchdir = "/Users/Temp/Documents/Overwatch/videos/overwatch/";

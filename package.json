@@ -1,0 +1,23 @@
+{
+  "name": "gfycatuploader",
+  "version": "1.0.0",
+  "description": "Upload to gfycat when a video gets added",
+  "main": "gfycat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chukwumaokere/owgfycatuploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chukwumaokere/owgfycatuploader/issues"
+  },
+  "homepage": "https://github.com/chukwumaokere/owgfycatuploader#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "chokidar": "^3.1.1"
+  }
+}
